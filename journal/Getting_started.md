@@ -25,4 +25,19 @@ Things that I've done so far:
 
 Things that I'm working on at this point:
 - My own website. mostly to show off things I can do.
-- Shogi engine, I'm using this to understand how something like alphazero was created.
+- html, css, js, mostly for the website part.
+- Shogi engine, I'm using this to understand how something like alphazero was created. the goal is ML.
+- markdown to write notes for general purposes.
+- Pandas and matplotlib libraries for data science.
+
+## what I'm Doing with Shogi ##
+
+What I'm working on right now is the shogi board. I want to be able to store board states and print out board states. This requires me to be able to read and write SFEN strings. Store that in a data structure and modify it to my needs. 
+
+Things to do:
+- Create a board (data structure to store information)
+- Read and Write SFEN 
+- making legal moves, making legal losing moves, detecting if a move is impossible or not.
+- rules / winning and losing board states.
+- read and write KIFU and CSA 
+- ultimate goal is the AI to play shogi. more than likely I'll stumble and fall to figure anything out here.
