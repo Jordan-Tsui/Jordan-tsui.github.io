@@ -30,7 +30,7 @@ Things that I'm working on at this point:
 - markdown to write notes for general purposes.
 - Pandas and matplotlib libraries for data science.
 
-## what I'm Doing with Shogi ##
+## What I'm Doing with Shogi ##
 
 What I'm working on right now is the shogi board. I want to be able to store board states and print out board states. This requires me to be able to read and write SFEN strings. Store that in a data structure and modify it to my needs. 
 
